@@ -18,22 +18,66 @@ The goal is to transform raw customer shopping data into actionable insights for
 📂 Dataset
 
 File: customer_shopping_behavior.csv
+Records: 3,900 rows
+Features: 18 columns
 
-The dataset contains customer transaction and shopping-related information such as:
+This dataset contains customer shopping and transaction data, including:
 
-Customer demographics
+🔹 Customer Information
 
-Product categories
+Customer ID
 
-Purchase amounts
+Age
 
-Payment methods
+Gender
 
-Shopping frequency
+Location
 
-Transaction dates
+Subscription Status
 
-The dataset was cleaned and analyzed to extract meaningful business KPIs.
+Previous Purchases
+
+🔹 Product Details
+
+Item Purchased
+
+Category
+
+Size
+
+Color
+
+Season
+
+🔹 Transaction Details
+
+Purchase Amount (USD)
+
+Payment Method
+
+Shipping Type
+
+Discount Applied
+
+Promo Code Used
+
+Frequency of Purchases
+
+Review Rating
+
+The dataset allows analysis of:
+
+Revenue trends
+
+Category performance
+
+Customer segmentation
+
+Payment behavior
+
+Seasonal shopping patterns
+
+Impact of discounts and subscriptions
 
 🛠 Tools & Technologies
 
